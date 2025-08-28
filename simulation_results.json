@@ -1,0 +1,26 @@
+{
+  "static": {
+    "mean_latency": 15.904761904761905,
+    "std_latency": 2.916836729735915,
+    "mean_fpr": 0.017777777777777778,
+    "std_fpr": 0.0015713484026367726
+  },
+  "ewma_only": {
+    "mean_latency": Infinity,
+    "std_latency": NaN,
+    "mean_fpr": 0.0,
+    "std_fpr": 0.0
+  },
+  "mahalanobis_only": {
+    "mean_latency": 56.904761904761905,
+    "std_latency": 34.681904029625905,
+    "mean_fpr": 0.005555555555555556,
+    "std_fpr": 0.003142696805273545
+  },
+  "amdm": {
+    "mean_latency": 56.904761904761905,
+    "std_latency": 34.681904029625905,
+    "mean_fpr": 0.005555555555555556,
+    "std_fpr": 0.003142696805273545
+  }
+}
