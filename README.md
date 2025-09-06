@@ -66,5 +66,13 @@ This repository is licensed under the MIT License.  See `LICENSE` for details.
 If you use this code in your research, please cite our paper:
 
 ```
-M. A. Shukla. “Adaptive Monitoring and Real‑World Evaluation of Agentic AI Systems,” 2025.
+@misc{shukla2025adaptive,
+  title        = {Adaptive Monitoring and Real-World Evaluation of Agentic AI Systems},
+  author       = {Shukla, Manish},
+  year         = {2025},
+  eprint       = {2508.12253},
+  archivePrefix= {arXiv},
+  primaryClass = {cs.AI},
+  url          = {https://arxiv.org/abs/2508.12253}
+}
 ```
