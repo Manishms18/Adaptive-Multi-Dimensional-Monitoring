@@ -70,9 +70,9 @@ If you use this code in your research, please cite our paper:
   title        = {Adaptive Monitoring and Real-World Evaluation of Agentic AI Systems},
   author       = {Shukla, Manish},
   year         = {2025},
-  eprint       = {2508.12253},
-  archivePrefix= {arXiv},
+  eprint       = {2509.00115},
+  archivePrefix = {arXiv},
   primaryClass = {cs.AI},
-  url          = {https://arxiv.org/abs/2508.12253}
+  url          = {https://arxiv.org/abs/2509.00115}
 }
 ```
