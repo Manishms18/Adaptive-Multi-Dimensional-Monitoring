@@ -76,3 +76,4 @@ If you use this code in your research, please cite our paper:
   url          = {https://arxiv.org/abs/2509.00115}
 }
 ```
+Link to paper : https://arxiv.org/abs/2509.00115
