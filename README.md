@@ -4,6 +4,7 @@ This repository contains a reference implementation of the **Adaptive Multi‑Di
 
 ## Features
 
+
 * **Rolling normalisation**: Maintains rolling means and standard deviations for each metric to compute per‑metric z‑scores.
 * **EWMA thresholds**: Computes exponentially weighted moving averages (EWMAs) per axis and flags per‑axis anomalies when deviations exceed a configurable threshold.
 * **Joint anomaly detection**: Maintains a joint mean and covariance matrix of the axis scores and computes a Mahalanobis distance; flags joint anomalies when the distance exceeds a chi‑square threshold.
